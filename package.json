@@ -1,0 +1,28 @@
+{
+  "name": "famsample",
+  "version": "1.0.0",
+  "description": "A example to call to FamContracts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx test",
+    "exe": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwanwang-0/famsample.git"
+  },
+  "keywords": [
+    "node",
+    "contracts"
+  ],
+  "author": "Iwan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iwanwang-0/famsample/issues"
+  },
+  "homepage": "https://github.com/iwanwang-0/famsample#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.8"
+  }
+}
